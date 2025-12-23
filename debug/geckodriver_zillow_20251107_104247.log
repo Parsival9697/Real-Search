@@ -1,0 +1,56 @@
+1762530168108	geckodriver	INFO	Listening on 127.0.0.1:55491
+1762530171271	mozrunner::runner	INFO	Running command: "C:\\Users\\JoshStevenson\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-new-i ... ort" "55492" "--remote-allow-hosts" "localhost" "-profile" "C:\\Users\\JOSHST~1\\AppData\\Local\\Temp\\rust_mozprofilec3ZSWm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1762530172690	Marionette	INFO	Marionette enabled
+1762530172976	Marionette	INFO	Listening on port 55499
+WebDriver BiDi listening on ws://127.0.0.1:55492
+Read port: 55499
+1762530173166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: NewRenderer::Run is slow: 5847
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6952
+
+1762530200737	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530200754	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530200791	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530200805	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530200833	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXHYx10rg3/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762530225217	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530225233	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530225240	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530225244	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530225250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXHYx10rg3/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762530238112	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530238116	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530238120	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530238123	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530238136	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXHYx10rg3/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762530328499	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530328504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530328507	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530328513	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530328525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXHYx10rg3/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762530337818	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530337822	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530337826	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530337830	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762530337843	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXHYx10rg3/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js, line 1: Script terminated by timeout at:
+p/<@https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js:1:814
+
+1762530341644	Marionette	INFO	Stopped listening on port 55499
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("OHTTP was configured for https://ads.mozilla.org/v1/delete_user but we couldn't fetch a valid config", "moz-src:///browser/modules/ContextId.sys.mjs", 234))
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ObliviousHTTP.sys.mjs, line 117: NS_ERROR_XPC_CANT_CONVERT_PRIMITIVE_TO_ARRAY: Cannot convert primitive JavaScript value into an array arg 2 [nsIObliviousHttpService.newChannel]
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 85: Error: Unknown callback

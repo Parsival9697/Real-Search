@@ -1,0 +1,24 @@
+1762528700439	geckodriver	INFO	Listening on 127.0.0.1:61130
+1762528703502	mozrunner::runner	INFO	Running command: "C:\\Users\\JoshStevenson\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-new-i ... ort" "61131" "--remote-allow-hosts" "localhost" "-profile" "C:\\Users\\JOSHST~1\\AppData\\Local\\Temp\\rust_mozprofile1ue9ca"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1762528704600	Marionette	INFO	Marionette enabled
+1762528704857	Marionette	INFO	Listening on port 61139
+WebDriver BiDi listening on ws://127.0.0.1:61131
+Read port: 61139
+1762528705095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1762528757904	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762528757909	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762528757914	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762528757929	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1762528757934	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXHYx10rg3/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762528918323	Marionette	INFO	Stopped listening on port 61139
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("OHTTP was configured for https://ads.mozilla.org/v1/delete_user but we couldn't fetch a valid config", "moz-src:///browser/modules/ContextId.sys.mjs", 234))
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ObliviousHTTP.sys.mjs, line 117: NS_ERROR_XPC_CANT_CONVERT_PRIMITIVE_TO_ARRAY: Cannot convert primitive JavaScript value into an array arg 2 [nsIObliviousHttpService.newChannel]
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 85: Error: Unknown callback
