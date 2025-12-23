@@ -1,0 +1,7 @@
+{
+  "state": "Indiana",
+  "county": "Tippecanoe",
+  "max_price_per_acre": 20000.0,
+  "power_nearby": false,
+  "exclude_flood_zone": true
+}
